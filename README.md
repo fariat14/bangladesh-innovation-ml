@@ -1,4 +1,4 @@
-# Bangladesh Firm Innovation Analysis  
+# Firm Level Innovation Analysis for Bangladesh
 ### Machine Learning Analysis of World Bank Enterprise Survey (WBES) Data
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
